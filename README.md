@@ -15,7 +15,7 @@ An interactive Power BI dashboard designed to analyze sales performance, track r
 ## 💡 Key Business Insights Discovered
 * *Most ordered Product is Tires and Tubes and Most returned Product is Shorts*
 
-##Dashboard Screenshots
+* **##Dashboard Screenshots**
 <img width="1117" height="631" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/54372997-3947-4372-8c17-00729158d55f" />
 <img width="1122" height="630" alt="Map Details" src="https://github.com/user-attachments/assets/8ea7ffb4-1f67-421a-88fc-eea3ce843d0c" />
 <img width="1121" height="630" alt="Product Details" src="https://github.com/user-attachments/assets/dc26f8cd-a9d7-48ab-b499-a800f8a914e6" />
